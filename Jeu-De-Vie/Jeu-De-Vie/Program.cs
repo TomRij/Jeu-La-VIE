@@ -6,7 +6,9 @@ namespace Jeu_De_Vie
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-        }
+            MethodeDuProjet mesOutils = new MethodeDuProjet();
+
+        }   
+         
     }
 }
