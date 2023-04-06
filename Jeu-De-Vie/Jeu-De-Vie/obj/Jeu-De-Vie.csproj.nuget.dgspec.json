@@ -10,14 +10,14 @@
         "projectUniqueName": "H:\\1PROJET SCHOOL\\Jeu-La-VIE\\Jeu-De-Vie\\Jeu-De-Vie\\Jeu-De-Vie.csproj",
         "projectName": "Jeu-De-Vie",
         "projectPath": "H:\\1PROJET SCHOOL\\Jeu-La-VIE\\Jeu-De-Vie\\Jeu-De-Vie\\Jeu-De-Vie.csproj",
-        "packagesPath": "C:\\Users\\200082\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\200082.asty-moulin\\.nuget\\packages\\",
         "outputPath": "H:\\1PROJET SCHOOL\\Jeu-La-VIE\\Jeu-De-Vie\\Jeu-De-Vie\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\200082\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\200082.asty-moulin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
