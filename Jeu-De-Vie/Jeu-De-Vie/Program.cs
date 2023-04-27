@@ -27,11 +27,11 @@ namespace Jeu_De_Vie
                     {
                         // appel de la méthode GenMatrice pour générer la matrice de départ
                         int _nbLigne = 100;
-                        int _nbColonne = 100;
+                        int _nbColonne = 500;
                         mesOutils.GenMatrice(_nbLigne, _nbColonne, out bool[,] _matrice);
                         mesOutils.ShowMatrice(_matrice, out string _matriceChaine);
 
-                        System.Threading.Thread.Sleep(100);
+                        System.Threading.Thread.Sleep(20);
 
                         // appel de la méthode EtapeSuivante pour obtenir la nouvelle matrice
                         mesOutils.EtapeSuivante(_matrice, out bool[,] _nouvelleMatrice);

@@ -87,13 +87,13 @@ public struct MethodeDuProjet
             {
                 if (i == 0 && j == 0) continue;
 
-                int row = x + i;
-                int col = y + j;
+                int ligne = x + i;
+                int colonne = y + j;
 
-                if (row < 0 || col < 0) continue;
-                if (row >= _matrice.GetLength(0) || col >= _matrice.GetLength(1)) continue;
+                if (ligne < 0 || colonne < 0) continue;
+                if (ligne >= _matrice.GetLength(0) || colonne >= _matrice.GetLength(1)) continue;
 
-                if (_matrice[row, col])
+                if (_matrice[ligne, colonne])
                 {
                     count++;
                 }
@@ -137,7 +137,6 @@ public struct MethodeDuProjet
             }
         }
     }
-
 }
 
 
