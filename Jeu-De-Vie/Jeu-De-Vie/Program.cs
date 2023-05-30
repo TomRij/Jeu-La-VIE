@@ -18,7 +18,7 @@ namespace Jeu_De_Vie
             while (true)
             {
                 string textToEnter = "Bienvenue dans le jeu de la vie";
-                Console.WriteLine(String.Format("{0," + ((Console.WindowWidth / 2) + (textToEnter.Length / 2)) + "}", textToEnter));
+                Console.WriteLine(textToEnter);
                 Console.WriteLine("Taper 1 pour commencer le jeu de la vie en mode alléatoire : ");
                 int lancer = int.Parse(Console.ReadLine());
                 if (lancer == 1)
@@ -26,12 +26,12 @@ namespace Jeu_De_Vie
                     while (true)
                     {
                         // appel de la méthode GenMatrice pour générer la matrice de départ
-                        int _nbLigne = 100;
-                        int _nbColonne = 500;
+                        int _nbLigne = 25;
+                        int _nbColonne = 100;
                         mesOutils.GenMatrice(_nbLigne, _nbColonne, out bool[,] _matrice);
                         mesOutils.ShowMatrice(_matrice, out string _matriceChaine);
 
-                        System.Threading.Thread.Sleep(20);
+                        System.Threading.Thread.Sleep(40);
 
                         // appel de la méthode EtapeSuivante pour obtenir la nouvelle matrice
                         mesOutils.EtapeSuivante(_matrice, out bool[,] _nouvelleMatrice);

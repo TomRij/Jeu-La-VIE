@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\1PROJET SCHOOL\\Jeu-La-VIE\\Jeu-De-Vie\\Jeu-De-Vie\\Jeu-De-Vie.csproj": {}
+    "H:\\1PROJET SCHOOL\\UAA9_JeuDeLaVie_RIJCKAERTTOM_2023\\Jeu-De-Vie\\Jeu-De-Vie\\Jeu-De-Vie.csproj": {}
   },
   "projects": {
-    "H:\\1PROJET SCHOOL\\Jeu-La-VIE\\Jeu-De-Vie\\Jeu-De-Vie\\Jeu-De-Vie.csproj": {
+    "H:\\1PROJET SCHOOL\\UAA9_JeuDeLaVie_RIJCKAERTTOM_2023\\Jeu-De-Vie\\Jeu-De-Vie\\Jeu-De-Vie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\1PROJET SCHOOL\\Jeu-La-VIE\\Jeu-De-Vie\\Jeu-De-Vie\\Jeu-De-Vie.csproj",
+        "projectUniqueName": "H:\\1PROJET SCHOOL\\UAA9_JeuDeLaVie_RIJCKAERTTOM_2023\\Jeu-De-Vie\\Jeu-De-Vie\\Jeu-De-Vie.csproj",
         "projectName": "Jeu-De-Vie",
-        "projectPath": "H:\\1PROJET SCHOOL\\Jeu-La-VIE\\Jeu-De-Vie\\Jeu-De-Vie\\Jeu-De-Vie.csproj",
+        "projectPath": "H:\\1PROJET SCHOOL\\UAA9_JeuDeLaVie_RIJCKAERTTOM_2023\\Jeu-De-Vie\\Jeu-De-Vie\\Jeu-De-Vie.csproj",
         "packagesPath": "C:\\Users\\200082.asty-moulin\\.nuget\\packages\\",
-        "outputPath": "H:\\1PROJET SCHOOL\\Jeu-La-VIE\\Jeu-De-Vie\\Jeu-De-Vie\\obj\\",
+        "outputPath": "H:\\1PROJET SCHOOL\\UAA9_JeuDeLaVie_RIJCKAERTTOM_2023\\Jeu-De-Vie\\Jeu-De-Vie\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
